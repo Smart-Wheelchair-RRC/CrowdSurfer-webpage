@@ -1,7 +1,7 @@
 # CrowdSurfer: Sampling Optimization Augmented with Vector-Quantized Variational AutoEncoder for Dense Crowd Navigation
 
 <div align="center">
-Naman Kumar<sup>*1</sup>,&nbsp;&nbsp;&nbsp; <sup>*1</sup>,&nbsp;&nbsp;&nbsp; Antareep Singha<sup>*1</sup>,&nbsp;&nbsp;&nbsp; Laksh Nanwani<sup>*1</sup>,nbsp;&nbsp;&nbsp;Dhruv Potdar<sup>1</sup>&nbsp;&nbsp;&nbsp;Tarun R.<sup>1</sup>,
+Naman Kumar<sup>*1</sup>,&nbsp;&nbsp;&nbsp;Antareep Singha<sup>*1</sup>,&nbsp;&nbsp;&nbsp; Laksh Nanwani<sup>*1</sup>,&nbsp;&nbsp;&nbsp;Dhruv Potdar<sup>1</sup>&nbsp;&nbsp;&nbsp;Tarun R.<sup>1</sup>,
 </br>
 Fatemeh Rastgar,<sup>2</sup>,&nbsp;&nbsp;&nbsp;Simon Idoko,<sup>2</sup>,&nbsp;&nbsp;&nbsp;
 Arun Kumar Singh<sup>2</sup>,&nbsp;&nbsp;&nbsp;K. Madhava Krishna<sup>1</sup>
