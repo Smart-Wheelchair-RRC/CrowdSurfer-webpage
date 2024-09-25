@@ -13,7 +13,7 @@ Arun Kumar Singh<sup>2</sup>,&nbsp;&nbsp;&nbsp;K. Madhava Krishna<sup>1</sup>
 
 <a href="https://github.com/Smart-Wheelchair-RRC/CrowdSurfer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 
-![teaser](./teaser.png)
+![teaser](./teaser_crowdsurfer.png)
 
 </div>
 
