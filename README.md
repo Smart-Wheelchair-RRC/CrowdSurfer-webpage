@@ -9,7 +9,7 @@ Arun Kumar Singh<sup>2</sup>,&nbsp;&nbsp;&nbsp;K. Madhava Krishna<sup>1</sup>
 <sup>1</sup>Robotics Research Center, IIIT Hyderabad, India&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup>University Of Tartu, Estonia<br/>
 <sup>*</sup>equal contribution
 
-<a href=""><img alt="arXiv (1st draft)" src="https://img.shields.io/badge/arXiv-badge"></a>
+<a href="https://arxiv.org/abs/2409.16011"><img alt="arXiv (1st draft)" src="https://img.shields.io/badge/arXiv-badge"></a>
 
 <a href="https://github.com/Smart-Wheelchair-RRC/CrowdSurfer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 
